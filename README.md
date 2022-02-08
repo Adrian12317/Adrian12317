@@ -1,6 +1,6 @@
 <h1> Hey, I´m Adrian 😎<h1>
 
-<h5> Full Stack Web Developer at <a href="https://international.kiubix.com/"> KIUBIX </a> <h5>
+<h5> Full Stack Web Developer at <a href="https://international.kiubix.com/"> KIUBIX <img width="30" href="/assets/KIUBIX.png"/> </a> <h5>
   
 [![Linkedin: Adrian Avendaño](https://www.linkedin.com/in/adrian-avenda%C3%B1o/)]
 
