@@ -12,17 +12,17 @@ const Adrian = {
   areas: ["FullStack","Better in Backend"],
   certifications: [
     {
-        name: "GitLab Certified Associate"
+        name: "GitLab Certified Associate",
         expedition: "abr. 2021"
     },     
     {
-        name: "cPanel & WHM Sales Professional (CPSP)"
+        name: "cPanel & WHM Sales Professional (CPSP)",
         expedition: "jun. 2021"
     },     
     {
-        name: "cPanel Professional Certification (CPP)"
+        name: "cPanel Professional Certification (CPP)",
         expedition: "jun. 2021"
     }     
-  ],
+  ]
 }
 ```
